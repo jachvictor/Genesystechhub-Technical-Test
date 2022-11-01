@@ -1,0 +1,29 @@
+nav {
+  background-color: white;
+  height: 1cm;
+  text-align: center;
+  font-size: xx-large;
+}
+body {
+  background-color: blue;
+}
+input {
+  height: 1cm;
+  width: 10cm;
+  text-align: center;
+}
+.img1 {
+  height: 0.5cm;
+  float: left;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+.p1 {
+  text-align: center;
+  color: white;
+}
+img2 {
+  margin-top: 10cm;
+}
